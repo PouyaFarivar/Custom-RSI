@@ -17,3 +17,5 @@ Overall the Custom RSI Indicator Can be used to find events of extreme volatilit
 
 This can be used as a good measure for getting in and out of long-term positions in the underlying.
 
+## Contributers
+Pouya Farivar        pouyam.fr@gmail.com
